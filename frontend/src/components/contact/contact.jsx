@@ -30,18 +30,20 @@ function Contact() {
         <li className="conatact__li">
           <a className="contact__a" href="https://github.com/Farid-Zian">
             <FontAwesomeIcon icon={["fas", "stream"]} />
-            <i className="fa" aria-hidden="true"></i>Github
+            <i className="fa" aria-hidden="true" />
+            Github
           </a>
         </li>
         <li className="conatact__li">
           <a className="contact__a" href="http://linkedin.com/in/farid-zian">
             <FontAwesomeIcon icon={["fas", "stream"]} />
-            <i className="fa " aria-hidden="true"></i>Linkedin
+            <i className="fa " aria-hidden="true" />
+            Linkedin
           </a>
         </li>
       </ul>
       <div className="contact__toggle" onClick={handleToggle}>
-        <i className="fa fa-chevron-down" aria-hidden="true"></i>
+        <i className="fa fa-chevron-down" aria-hidden="true" />
       </div>
     </div>
   );
