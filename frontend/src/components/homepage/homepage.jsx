@@ -17,7 +17,7 @@ function Home() {
             <div className="icon">1</div>
             <div className="description">
               <h4>Digital Technology</h4>
-              <p>Winter has so much to offer - creative activities</p>
+              <p>Empowering Tomorrow, One Block at a Time – Crypto-Maonais</p>
             </div>
           </div>
         </label>
@@ -50,7 +50,7 @@ function Home() {
             <div className="icon">4</div>
             <div className="description">
               <h4>New technologies</h4>
-              <p>Space engineering becomes more and more advanced</p>
+              <p>Unlocking Potential, Uniting Communities – Crypto-Maonais</p>
             </div>
           </div>
         </label>
